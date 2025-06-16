@@ -1,0 +1,232 @@
+[
+  {
+    "id": "TOY_004_BasketballElite",
+    "name": "Fancy Basketball",
+    "rarity": "Epic",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_004_basketballelite/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_004_basketballelite/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_006_BeachBallElite",
+    "name": "Fancy Beach Ball",
+    "rarity": "Epic",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_006_beachballelite/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_006_beachballelite/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_020_Bottle_Fancy",
+    "name": "Fancy Flip",
+    "rarity": "Epic",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_020_bottle_fancy/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_020_bottle_fancy/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_018_FancyFlyingDisc",
+    "name": "Fancy Flying Disc",
+    "rarity": "Epic",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_018_fancyflyingdisc/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_018_fancyflyingdisc/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_005_GolfballElite",
+    "name": "Fancy Golf Ball",
+    "rarity": "Epic",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_005_golfballelite/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_005_golfballelite/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_008_TomatoElite",
+    "name": "Fancy Tomato",
+    "rarity": "Epic",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_008_tomatoelite/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_008_tomatoelite/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_001_Basketball",
+    "name": "Basketball",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_001_basketball/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_001_basketball/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_001_Basketball_Creative",
+    "name": "Basketball",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_001_basketball_creative/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_001_basketball_creative/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_003_BeachBall",
+    "name": "Beach Ball",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_003_beachball/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_003_beachball/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_015_Bottle",
+    "name": "Bottle Flip",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_015_bottle/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_015_bottle/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_014_BouncyBall",
+    "name": "Bouncy Ball",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_014_bouncyball/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_014_bouncyball/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_009_BurgerElite",
+    "name": "Fancy Burger",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_009_burgerelite/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_009_burgerelite/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_017_FlyingDisc",
+    "name": "Flying Disc",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_017_flyingdisc/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_017_flyingdisc/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_002_Golfball",
+    "name": "Golf Ball",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_002_golfball/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_002_golfball/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_002_Golfball_Creative",
+    "name": "Golf Ball",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_002_golfball_creative/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_002_golfball_creative/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_Basketball_Hookshot_LUWQ6",
+    "name": "Hookshot",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_basketball_hookshot_luwq6/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_basketball_hookshot_luwq6/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_010_IcePuck",
+    "name": "Ice Puck",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_010_icepuck/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_010_icepuck/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_012_AmericanFootball",
+    "name": "Pigskin",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_012_americanfootball/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_012_americanfootball/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_011_Snowball",
+    "name": "Snowball",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_011_snowball/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_011_snowball/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_021_SoccerBall",
+    "name": "Soccer Ball",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_021_soccerball/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_021_soccerball/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_021_SoccerBall_Creative",
+    "name": "Soccer Ball",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_021_soccerball_creative/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_021_soccerball_creative/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_007_Tomato",
+    "name": "Tomato",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_007_tomato/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_007_tomato/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "TOY_019_WaterBalloon",
+    "name": "Water Balloon",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/toy_019_waterballoon/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/toy_019_waterballoon/smallicon.png",
+      "featured": null
+    }
+  }
+]

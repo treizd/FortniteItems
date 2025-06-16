@@ -1,0 +1,2172 @@
+[
+  {
+    "id": "Contrail_MarkerDeer",
+    "name": "Black Squadron Dive",
+    "rarity": "Star Wars Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_markerdeer/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_markerdeer/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_ClawPad",
+    "name": "Imperial Shuttle Dive",
+    "rarity": "Star Wars Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_clawpad/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_clawpad/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_MuffinLadle",
+    "name": "Soulless One Dropper",
+    "rarity": "Star Wars Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_muffinladle/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_muffinladle/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_146_Realm",
+    "name": "TIE Squadron",
+    "rarity": "Star Wars Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_146_realm/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_146_realm/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_PlatypusBranch",
+    "name": "Training Remote Trail",
+    "rarity": "Star Wars Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_platypusbranch/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_platypusbranch/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_078_SlurpMonster",
+    "name": "Slurpstream",
+    "rarity": "Slurp Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_078_slurpmonster/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_078_slurpmonster/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_DimeBlanket",
+    "name": "Cute Cutout",
+    "rarity": "Icon Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_dimeblanket/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_dimeblanket/smallicon.png",
+      "featured": "https://fortnite-api.com/images/cosmetics/br/contrail_dimeblanket/featured.png"
+    }
+  },
+  {
+    "id": "Contrail_GreatPool",
+    "name": "Lightning Dropper",
+    "rarity": "Icon Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_greatpool/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_greatpool/smallicon.png",
+      "featured": "https://fortnite-api.com/images/cosmetics/br/contrail_greatpool/featured.png"
+    }
+  },
+  {
+    "id": "Contrail_JadeTowel",
+    "name": "Miku Light",
+    "rarity": "Icon Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_jadetowel/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_jadetowel/smallicon.png",
+      "featured": "https://fortnite-api.com/images/cosmetics/br/contrail_jadetowel/featured.png"
+    }
+  },
+  {
+    "id": "Contrail_KelpLinen",
+    "name": "WRLDwide Sound",
+    "rarity": "Icon Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_kelplinen/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_kelplinen/smallicon.png",
+      "featured": "https://fortnite-api.com/images/cosmetics/br/contrail_kelplinen/featured.png"
+    }
+  },
+  {
+    "id": "Trails_ID_037_Glyphs",
+    "name": "Glyphs",
+    "rarity": "DARK SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_037_glyphs/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_037_glyphs/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_099_HightowerTapas",
+    "name": "Bifrost Glow",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_099_hightowertapas/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_099_hightowertapas/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_PillowMill",
+    "name": "Comic Clouds",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_pillowmill/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_pillowmill/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_PiperShelf",
+    "name": "Diamond Strands",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_pipershelf/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_pipershelf/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_095_HightowerDate",
+    "name": "Doom Drop",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_095_hightowerdate/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_095_hightowerdate/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_TroutWrist",
+    "name": "Fruit Salad",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_troutwrist/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_troutwrist/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SoilBlend",
+    "name": "Illusory Plume",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_soilblend/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_soilblend/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_135_ParallelComic",
+    "name": "Loose Threads",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_135_parallelcomic/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_135_parallelcomic/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_140_Mystic",
+    "name": "Multiversal Energy",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_140_mystic/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_140_mystic/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SnapFreeze",
+    "name": "Panther's Plasma Orb",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_snapfreeze/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_snapfreeze/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_RoseDust",
+    "name": "Portal Particles",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_rosedust/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_rosedust/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_096_HightowerGrape",
+    "name": "Sap Light",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_096_hightowergrape/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_096_hightowergrape/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_098_HightowerSquash",
+    "name": "Storm's Strike",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_098_hightowersquash/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_098_hightowersquash/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_102_HightowerVertigo_G63FW",
+    "name": "Symbiote Trail",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_102_hightowervertigo_g63fw/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_102_hightowervertigo_g63fw/smallicon.png",
+      "featured": "https://fortnite-api.com/images/cosmetics/br/trails_id_102_hightowervertigo_g63fw/featured.png"
+    }
+  },
+  {
+    "id": "Trails_ID_126_Clash",
+    "name": "Visceral Trail",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_126_clash/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_126_clash/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_097_HightowerSpeedlines",
+    "name": "Zip Ribbons",
+    "rarity": "MARVEL SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_097_hightowerspeedlines/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_097_hightowerspeedlines/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SquidGlisten",
+    "name": "Birdarang Dropper",
+    "rarity": "DC SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_squidglisten/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_squidglisten/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_101_ParcelPrank",
+    "name": "Pick A Card",
+    "rarity": "DC SERIES",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_101_parcelprank/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_101_parcelprank/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_RedPepper",
+    "name": "Fall To Their Doom",
+    "rarity": "Gaming Legends Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_redpepper/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_redpepper/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_100_Turbo",
+    "name": "Holodata Drop",
+    "rarity": "Gaming Legends Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_100_turbo/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_100_turbo/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SprocketPoppy_Boat",
+    "name": "Mortal Spirits",
+    "rarity": "Gaming Legends Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_sprocketpoppy_boat/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_sprocketpoppy_boat/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_136_RenegadeRaiderFire",
+    "name": "Renegade Blaze",
+    "rarity": "Gaming Legends Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_136_renegaderaiderfire/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_136_renegaderaiderfire/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_114_Temple",
+    "name": "Spelunker's Special",
+    "rarity": "Gaming Legends Series",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_114_temple/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_114_temple/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_147_Lancelot",
+    "name": "Exalted Skies",
+    "rarity": "Epic",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_147_lancelot/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_147_lancelot/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_082_HolidayGarland",
+    "name": "Holly and Divey",
+    "rarity": "Epic",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_082_holidaygarland/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_082_holidaygarland/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_ZebraScramble_Bacon",
+    "name": "Wacky Wavers",
+    "rarity": "Epic",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_zebrascramble_bacon/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_zebrascramble_bacon/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_ShiverFlame",
+    "name": "Wasteland Drifter",
+    "rarity": "Epic",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_shiverflame/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_shiverflame/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_LazarusLens",
+    "name": "Wicked Wings",
+    "rarity": "Epic",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_lazaruslens/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_lazaruslens/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_117_Abduction",
+    "name": "Abduction!",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_117_abduction/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_117_abduction/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_Apprentice",
+    "name": "Airbound Eyes",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_apprentice/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_apprentice/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_131_Gumball",
+    "name": "All Gooped Up",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_131_gumball/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_131_gumball/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_001_Disco",
+    "name": "All-Star",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_001_disco/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_001_disco/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_083_AlphabetSoup",
+    "name": "Alphabet Soup",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_083_alphabetsoup/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_083_alphabetsoup/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_UndergroundRebel",
+    "name": "Art of Revenge",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_undergroundrebel/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_undergroundrebel/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_019_PSBurnout",
+    "name": "Artifact",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_019_psburnout/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_019_psburnout/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_137_TurtleneckCrystal",
+    "name": "Auroral Arc",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_137_turtleneckcrystal/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_137_turtleneckcrystal/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_LoudPhoenix",
+    "name": "Autobot Signal Flare",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_loudphoenix/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_loudphoenix/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_PlantStand",
+    "name": "Avatar's Descent",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_plantstand/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_plantstand/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_127_TeriyakiToon",
+    "name": "Bait Shoppe Ballast",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_127_teriyakitoon/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_127_teriyakitoon/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_111_HolidayCookies",
+    "name": "Baker's Dozen",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_111_holidaycookies/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_111_holidaycookies/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_047_AmmoBelt",
+    "name": "Ballistics",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_047_ammobelt/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_047_ammobelt/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_055_Bananas",
+    "name": "Bananas!",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_055_bananas/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_055_bananas/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_026_Bats",
+    "name": "Bats!",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_026_bats/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_026_bats/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_063_BeachBalls",
+    "name": "Beachballs",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_063_beachballs/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_063_beachballs/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_BadBear",
+    "name": "Bear Claws",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_badbear/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_badbear/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_065_DJRemix",
+    "name": "Beat Drop",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_065_djremix/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_065_djremix/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_MusketSlinger",
+    "name": "Big Score",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_musketslinger/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_musketslinger/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_077_Billiards",
+    "name": "Billiards",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_077_billiards/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_077_billiards/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_Hibiscus",
+    "name": "Blossom Drop",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_hibiscus/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_hibiscus/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_059_Sony2",
+    "name": "Blue Fusion",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_059_sony2/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_059_sony2/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_085_Candy",
+    "name": "Bon Bon",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_085_candy/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_085_candy/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_087_TNTina",
+    "name": "Boom Drop",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_087_tntina/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_087_tntina/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_106_GeoStorm",
+    "name": "Bright Box",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_106_geostorm/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_106_geostorm/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_005_Bubbles",
+    "name": "Bubbles",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_005_bubbles/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_005_bubbles/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_MadameMoth",
+    "name": "Burndown",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_madamemoth/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_madamemoth/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_138_Cadet",
+    "name": "Captain's Tag",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_138_cadet/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_138_cadet/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_021_Bling",
+    "name": "Cash Flow",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_021_bling/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_021_bling/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_075_Celestial",
+    "name": "Celestial",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_075_celestial/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_075_celestial/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_124_CerealBox",
+    "name": "Cereal Spiller",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_124_cerealbox/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_124_cerealbox/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_142_OrderGuard",
+    "name": "Chainpalms",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_142_orderguard/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_142_orderguard/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_Quartz",
+    "name": "Chromic Tendrils",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_quartz/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_quartz/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_027_Sands",
+    "name": "Chrono",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_027_sands/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_027_sands/smallicon.png",
+      "featured": "https://fortnite-api.com/images/cosmetics/br/trails_id_027_sands/featured.png"
+    }
+  },
+  {
+    "id": "Trails_ID_046_Clover",
+    "name": "Clovers",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_046_clover/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_046_clover/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_119_ColorTrip",
+    "name": "Cluttered",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_119_colortrip/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_119_colortrip/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_123_TacticalWoodlandBlue",
+    "name": "Cobalt Cloudbreak",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_123_tacticalwoodlandblue/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_123_tacticalwoodlandblue/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_125_GhostHunter",
+    "name": "Corrupted Cubes",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_125_ghosthunter/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_125_ghosthunter/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_133_LoneWolfMale",
+    "name": "Crescent's Flame",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_133_lonewolfmale/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_133_lonewolfmale/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_141_TheOrigin",
+    "name": "Cubefall",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_141_theorigin/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_141_theorigin/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_080_DNAHelix",
+    "name": "DNA",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_080_dnahelix/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_080_dnahelix/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_020_RavenQuill",
+    "name": "Dark Feathers",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_020_ravenquill/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_020_ravenquill/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_LilSplit",
+    "name": "Dessert Dropper",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_lilsplit/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_lilsplit/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_BlazerVeil",
+    "name": "Diamond Drop",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_blazerveil/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_blazerveil/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_Retro",
+    "name": "Digital Dogfight",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_retro/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_retro/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_104_FlapjackWrangler",
+    "name": "Diner Dive",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_104_flapjackwrangler/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_104_flapjackwrangler/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_043_DiscoBalls",
+    "name": "Disco Dive",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_043_discoballs/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_043_discoballs/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_CrispRover",
+    "name": "Drone Drop",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_crisprover/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_crisprover/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_118_BoostWings",
+    "name": "Drop Jet",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_118_boostwings/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_118_boostwings/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_015_GoldenStarfish",
+    "name": "Embers",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_015_goldenstarfish/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_015_goldenstarfish/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_DiamondHeart",
+    "name": "Encrusted",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_diamondheart/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_diamondheart/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_PraireSkip",
+    "name": "Engine Drop",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_praireskip/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_praireskip/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_024_DieselSmoke",
+    "name": "Exhaust",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_024_dieselsmoke/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_024_dieselsmoke/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_139_KnightCat",
+    "name": "Fallen Daggers",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_139_knightcat/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_139_knightcat/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_145_Fuchisa",
+    "name": "Falling Fate",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_145_fuchisa/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_145_fuchisa/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_036_FiberOptics",
+    "name": "Fiber Optics",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_036_fiberoptics/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_036_fiberoptics/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_122_FireworkStrands",
+    "name": "Firecracker Freefall",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_122_fireworkstrands/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_122_fireworkstrands/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_023_Fireflies",
+    "name": "Fireflies",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_023_fireflies/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_023_fireflies/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_086_SnowStorm",
+    "name": "Flaky",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_086_snowstorm/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_086_snowstorm/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_003_Fire",
+    "name": "Flames",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_003_fire/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_003_fire/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_ZirconSweep",
+    "name": "Flutterfall",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_zirconsweep/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_zirconsweep/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_045_Undertow",
+    "name": "Flying Standard",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_045_undertow/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_045_undertow/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_084_Briefcase",
+    "name": "Getaway Case",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_084_briefcase/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_084_briefcase/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_011_Glitch",
+    "name": "Glitch in the System",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_011_glitch/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_011_glitch/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_148_80sRibbon",
+    "name": "Glitz Grid",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_148_80sribbon/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_148_80sribbon/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_144_PinkWidow",
+    "name": "Gossamer Shine",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_144_pinkwidow/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_144_pinkwidow/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_LiftingAura",
+    "name": "Heart Fall",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_liftingaura/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_liftingaura/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_009_Hearts",
+    "name": "Hearts",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_009_hearts/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_009_hearts/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_VitalPsych",
+    "name": "Highwire Skymark",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_vitalpsych/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_vitalpsych/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_PinkSpike",
+    "name": "Hop Drop",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_pinkspike/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_pinkspike/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_109_SpaceFighter",
+    "name": "Hyperflight",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_109_spacefighter/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_109_spacefighter/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_016_Ice",
+    "name": "Ice Crystals",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_016_ice/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_016_ice/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_121_DarkAndLight",
+    "name": "Inversion",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_121_darkandlight/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_121_darkandlight/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_025_JackOLantern",
+    "name": "Jack-O-Lantern",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_025_jackolantern/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_025_jackolantern/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SpookyVine",
+    "name": "Jack-o'-Drifter",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_spookyvine/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_spookyvine/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_017_Lanterns",
+    "name": "Lanterns",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_017_lanterns/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_017_lanterns/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_044_Lava",
+    "name": "Lava",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_044_lava/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_044_lava/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_120_EnergyNet",
+    "name": "Light Streak",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_120_energynet/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_120_energynet/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_120_EnergyNet_Proto",
+    "name": "Light Streak",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_120_energynet_proto/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_120_energynet_proto/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_008_Lightning",
+    "name": "Lightning",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_008_lightning/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_008_lightning/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_056_StormTracker",
+    "name": "Lightning strike",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_056_stormtracker/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_056_stormtracker/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_081_MissingLink",
+    "name": "Loose Links",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_081_missinglink/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_081_missinglink/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_Sunlit",
+    "name": "Lunar Rings",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_sunlit/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_sunlit/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_IndieBucket",
+    "name": "Mae's Amazing Maze",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_indiebucket/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_indiebucket/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_130_ExoSuit",
+    "name": "Mehndi",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_130_exosuit/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_130_exosuit/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_Nebula",
+    "name": "Meteor Shower",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_nebula/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_nebula/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_051_NeonTubes",
+    "name": "Neo Tubes",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_051_neontubes/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_051_neontubes/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_Megatoof",
+    "name": "Nitro Smog",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_megatoof/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_megatoof/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_StrategicSpur_Mic",
+    "name": "Nitrodrome Dropper",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_strategicspur_mic/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_strategicspur_mic/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_066_TacticalHUD",
+    "name": "Overlay",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_066_tacticalhud/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_066_tacticalhud/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_Meteorwomen",
+    "name": "Para-Dive",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_meteorwomen/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_meteorwomen/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_048_Spectral",
+    "name": "Phantasm",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_048_spectral/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_048_spectral/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_057_BattleSuit",
+    "name": "Plasma Trail",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_057_battlesuit/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_057_battlesuit/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_068_Popcorn",
+    "name": "Popcorn",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_068_popcorn/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_068_popcorn/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_HornedJudgment",
+    "name": "Rage'n'Rock",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_hornedjudgment/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_hornedjudgment/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_002_Rainbow",
+    "name": "Rainbow",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_002_rainbow/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_002_rainbow/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_RealityBloom",
+    "name": "Reality Falls",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_realitybloom/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_realitybloom/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_NitroFlow",
+    "name": "Reality Flow",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_nitroflow/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_nitroflow/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_128_Division",
+    "name": "Reality Graph",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_128_division/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_128_division/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_Dazzle",
+    "name": "Reckless Reverb",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_dazzle/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_dazzle/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_Inferno",
+    "name": "Renzo Velocity",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_inferno/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_inferno/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_010_RetroScifi",
+    "name": "Retro Sci-fi",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_010_retroscifi/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_010_retroscifi/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_JollyTroll",
+    "name": "Ribbon Trail",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_jollytroll/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_jollytroll/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_074_DriftLightning",
+    "name": "Rift Lightning",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_074_driftlightning/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_074_driftlightning/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_RippedHarvester",
+    "name": "Rockfall",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_rippedharvester/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_rippedharvester/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_018_Runes",
+    "name": "Runic",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_018_runes/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_018_runes/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_149_SeaLife",
+    "name": "Sea-Wheeeed",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_149_sealife/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_149_sealife/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_DarkStance",
+    "name": "Shadowsmoke",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_darkstance/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_darkstance/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SnowKnight",
+    "name": "Shardfall",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_snowknight/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_snowknight/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_013_ShootingStar",
+    "name": "Shooting Star",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_013_shootingstar/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_013_shootingstar/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_BengalBasher",
+    "name": "Skyscratch",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_bengalbasher/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_bengalbasher/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_134_MotorcyclistFemale",
+    "name": "Skywheeler",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_134_motorcyclistfemale/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_134_motorcyclistfemale/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_150_Avalanche",
+    "name": "Snowball Flight",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_150_avalanche/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_150_avalanche/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_WinterFire",
+    "name": "Snowfaller",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_winterfire/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_winterfire/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_033_Snowflakes",
+    "name": "Snowflakes",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_033_snowflakes/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_033_snowflakes/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_FNCS_S26",
+    "name": "Soaring Shield",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_fncs_s26/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_fncs_s26/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_105_FutureSamurai",
+    "name": "Soul Fall",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_105_futuresamurai/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_105_futuresamurai/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_022_GreenSmoke",
+    "name": "Spectral Essence",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_022_greensmoke/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_022_greensmoke/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_076_ReactiveLight",
+    "name": "Spectrum",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_076_reactivelight/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_076_reactivelight/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_012_Spraypaint",
+    "name": "Spray Paint",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_012_spraypaint/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_012_spraypaint/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_Chainmail",
+    "name": "Spring Chaining",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_chainmail/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_chainmail/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SeleneCobra",
+    "name": "Stellar Barrage",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_selenecobra/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_selenecobra/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_StunningMountain",
+    "name": "Stormy Descent",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_stunningmountain/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_stunningmountain/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_032_StringLights",
+    "name": "String Lights",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_032_stringlights/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_032_stringlights/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_034_SwirlySmoke",
+    "name": "Swirls",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_034_swirlysmoke/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_034_swirlysmoke/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_088_Informer",
+    "name": "Synth Streak",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_088_informer/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_088_informer/smallicon.png",
+      "featured": "https://fortnite-api.com/images/cosmetics/br/trails_id_088_informer/featured.png"
+    }
+  },
+  {
+    "id": "Trails_ID_007_TP",
+    "name": "TP",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_007_tp/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_007_tp/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_PizzaParty",
+    "name": "Tail Lights",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_pizzaparty/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_pizzaparty/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_110_Lexa",
+    "name": "Target Acquired",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_110_lexa/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_110_lexa/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SpeedyPeas",
+    "name": "Tendril Dropper",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_speedypeas/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_speedypeas/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SharpFang",
+    "name": "Terminal Veloci-tea",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_sharpfang/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_sharpfang/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SilentTempo",
+    "name": "The Countdown",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_silenttempo/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_silenttempo/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_004_BlueStreak",
+    "name": "Ultramarine",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_004_bluestreak/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_004_bluestreak/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_054_KpopGlow",
+    "name": "Vibrant",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_054_kpopglow/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_054_kpopglow/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_014_Vines",
+    "name": "Vines",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_014_vines/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_014_vines/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_31_GreenFlame",
+    "name": "Virulent Flames",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_31_greenflame/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_31_greenflame/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_129_GhostChain",
+    "name": "Wrathful Breakout",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_129_ghostchain/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_129_ghostchain/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_079_ZeroPoint",
+    "name": "Zero Point",
+    "rarity": "Rare",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_079_zeropoint/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_079_zeropoint/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_RoyalAngst",
+    "name": "24-Karat Crash",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_royalangst/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_royalangst/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_CasinoReaper",
+    "name": "Aces Fly",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_casinoreaper/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_casinoreaper/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_StageCue",
+    "name": "Baller Faller",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_stagecue/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_stagecue/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_OysterKnock",
+    "name": "Baymax Booster",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_oysterknock/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_oysterknock/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_112_CubeNinja",
+    "name": "Chroma Flame",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_112_cubeninja/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_112_cubeninja/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_CarbideWeld",
+    "name": "Circuitry Dropper",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_carbideweld/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_carbideweld/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_116_WavesOfLight",
+    "name": "Conduit Crasher",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_116_wavesoflight/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_116_wavesoflight/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SacredCuddle",
+    "name": "Cuddle Dropper",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_sacredcuddle/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_sacredcuddle/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_MistRavenCowl",
+    "name": "Cursed Tomefaller",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_mistravencowl/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_mistravencowl/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_113_DinoHunter",
+    "name": "Dino Feather",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_113_dinohunter/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_113_dinohunter/smallicon.png",
+      "featured": "https://fortnite-api.com/images/cosmetics/br/trails_id_113_dinohunter/featured.png"
+    }
+  },
+  {
+    "id": "Contrail_SparkleChop",
+    "name": "Diva Drop",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_sparklechop/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_sparklechop/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_091_Longshorts",
+    "name": "Down Arrow",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": null,
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_091_longshorts/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SherWolf",
+    "name": "Fur Faller",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_sherwolf/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_sherwolf/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_AuraCop",
+    "name": "Gilded Aura",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_auracop/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_auracop/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_DenimEquip",
+    "name": "Guff Puffs",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_denimequip/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_denimequip/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_BoomShot",
+    "name": "Heart Boom",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_boomshot/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_boomshot/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_AshenMagnusSlant",
+    "name": "Hunter's Holo-Target",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_ashenmagnusslant/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_ashenmagnusslant/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_IronLilac",
+    "name": "Ink Drop",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_ironlilac/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_ironlilac/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_MistMylar",
+    "name": "Kintsugi Crashdown",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_mistmylar/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_mistmylar/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_089_BlackKnight",
+    "name": "Knight Flight",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_089_blackknight/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_089_blackknight/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_MediCrow",
+    "name": "Nightfall",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_medicrow/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_medicrow/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_MissusMind",
+    "name": "Ooze",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_missusmind/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_missusmind/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_CoreStreet",
+    "name": "Pastel Skulls",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_corestreet/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_corestreet/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_StinkyCloud",
+    "name": "Phantasmic Fall",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_stinkycloud/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_stinkycloud/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_093_SpaceWanderer",
+    "name": "Photon",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_093_spacewanderer/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_093_spacewanderer/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_StormAviator",
+    "name": "Rescue Flares",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_stormaviator/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_stormaviator/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SpatialTravelWatt",
+    "name": "Rezz Streams",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_spatialtravelwatt/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_spatialtravelwatt/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_InflatoDodo",
+    "name": "Saur Soarer",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_inflatododo/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_inflatododo/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_092_SchoolOfFish",
+    "name": "Sky Swimmers",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_092_schooloffish/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_092_schooloffish/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_FrostedGlass",
+    "name": "Snow Sparkle",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_frostedglass/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_frostedglass/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_GraffitiTon",
+    "name": "Soaring Sprays",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_graffititon/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_graffititon/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_PolishedJade",
+    "name": "Sprite Soarer",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_polishedjade/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_polishedjade/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_090_Constellation",
+    "name": "Stardrop",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_090_constellation/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_090_constellation/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_PolarityWinnField",
+    "name": "Synth Drop",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_polaritywinnfield/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_polaritywinnfield/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SynthContact",
+    "name": "Visitor's Signal",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_synthcontact/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_synthcontact/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_MedievalSheath",
+    "name": "War Banners",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_medievalsheath/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_medievalsheath/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_115_Tube",
+    "name": "Warp Wave",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_115_tube/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_115_tube/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Trails_ID_094_WaterSpray",
+    "name": "Waterfall",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_094_waterspray/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/trails_id_094_waterspray/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_SliceVine",
+    "name": "Wireframe Faller",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_slicevine/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_slicevine/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_EthicalNoggin",
+    "name": "Wraith's Shadow",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_ethicalnoggin/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_ethicalnoggin/smallicon.png",
+      "featured": null
+    }
+  },
+  {
+    "id": "Contrail_RushRustle",
+    "name": "Wreckfall",
+    "rarity": "Uncommon",
+    "files": {
+      "big_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_rushrustle/icon.png",
+      "small_icon": "https://fortnite-api.com/images/cosmetics/br/contrail_rushrustle/smallicon.png",
+      "featured": null
+    }
+  }
+]
