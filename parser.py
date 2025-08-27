@@ -96,7 +96,6 @@ async def sort_items(items):
     return sorted(items, key=sorting_key)
 
 
-# Основная асинхронная функция для парсинга и сохранения данных
 async def parse(language_code="en"):
     item_data_dict = {category: [] for category in [
         "outfits", "pickaxes", "emotes", "backpacks", "toys", "emojis",
