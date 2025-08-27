@@ -95,7 +95,7 @@ async def sort_items(items):
 
     return sorted(items, key=sorting_key)
 
-
+# Main async function for parsing & saving the results
 async def parse(language_code="en"):
     item_data_dict = {category: [] for category in [
         "outfits", "pickaxes", "emotes", "backpacks", "toys", "emojis",
