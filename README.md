@@ -2,6 +2,22 @@
 However, the API used for parsing is no longer available.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Fortnite cosmetic items parser
 
 Parsing all fortnite cosmetic items and also parsing battlepasses.
